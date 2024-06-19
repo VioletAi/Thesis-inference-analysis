@@ -1,0 +1,21 @@
+Most common words in the extracted parts of prompts where 'pred' does match 'ref_captions':
+on: 1170
+in: 901
+right: 703
+left: 697
+white: 683
+table: 666
+wall: 647
+chair: 640
+black: 508
+brown: 485
+room: 465
+door: 430
+desk: 398
+window: 379
+bed: 364
+rectangular: 345
+next: 331
+side: 304
+toilet: 297
+sink: 276

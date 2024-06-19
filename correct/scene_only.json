@@ -1,0 +1,4766 @@
+[
+    {
+        "scene_id": "scene0015_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a chair with no arms. it is in between two chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black couch next to two black chairs. there is a snack machine on the opposite wall behind it. tt is a couch not a chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"black couch designed to seat 3 people. this is facing and pushed against the wall. the wall has a black surface to it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a black sofa. it on the left of the black snack machine with two cushions setting on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is white,it holds trash and it is sitting in the doorway. it contains a black plastic bag,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a small trash can in next to the open door on the floor. it is round and white with a black bag inside it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a silver trash can that appears to be 1' high. it is between the cabinets and the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"located near a door in a corner of a room is a gray trash can with a black trash bag liner. the trash can has been place adjacent to a tall cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0019_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a small waste basket. it is on the floor on the right side wall in front of the lockers,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0025_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is an white and black monitor. it is behind an all black keyboard on a tan desk. it is close to an off white and black monitor of similar size,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0025_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the monitor is located on top of the desk, and to the left of the other monitor facing the chair. there is a keyboard in front of the monitor,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0025_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a white and black computer monitor shaped like a rectangle with a smaller, rectangular base. the monitor is the the right of another, taller computer monitor and in front of a desk chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0025_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a black computer screen is sitting on the desk. it is next to a black framed computer screen and to the left of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0030_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is brown and the 5th chair. the chair is pushed into a long table and has another chair in front of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ014>.",
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0030_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"in the corner of the room are boxes. the first two book shelves in the corner to the right of the boxes are the bookshelves we are looking for,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ051>.",
+        "ref_captions": [
+            "<OBJ051>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0030_00",
+        "gt_id": 47,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this table is in front of a chalk board. it has seven chairs pushed under it. the chairs are blue and auburn in color. the table is light brown and rectangular,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the bed is covered with a blue and white colored bedspread. a chair can be seen in front of the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown wardrobe in the corner of the room. it has two doors. it is next to the window with green blue curtains,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is the tall  brown cabinet next to the blue plaid curtains. it is the wardrobe next to the window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the wardrobe is located in the corner of the room, to the right of the curtains. the wardrobe is against the wall, and it is to the left of a painting,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a tall brown wooden cabinet . it is called a wardrobe. it is directly to the right of the window with the green curtains,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this cabinet is called a wardrobe .  it is tall and wooden .  it  is between the window and the bed ,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 26,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"an open white entry door. just in front of the toliet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0046_00",
+        "gt_id": 26,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is an off-white door. it is located to the left of the toilet, separating the bathroom and the bedroom,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0050_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown ottoman in front of a brown sofa. the ottoman has a black back pack,and a black duffel bag,and a box of tissues,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ030>.",
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0050_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown ottoman. it is in front of a couch,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ030>.",
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0050_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown leather ottoman.  there is a black backpack on it.  there is a box of tissues on it.  as a purple piece of paper on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ030>.",
+        "ref_captions": [
+            "<OBJ030>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0050_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the brown couch is in between the piano and the glass double doors. the brown couch is against the white wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0050_00",
+        "gt_id": 29,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the stool is located on the floor to the left of the piano. it has two boxes on top of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0077_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the window in the office is on the far side of the room. it is above the desk against the wall and to the right of the shelves,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ012>.",
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0081_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"choose the first small circular table with a metal stand, on the right side. it has no red stool,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0084_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a tall gray trash can. the trash can is under the left side of the counter, to the left of the door when you enter,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0084_00",
+        "gt_id": 24,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a small white sink. it is the sink on the right,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0086_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the door is tan with a metal grating. the door is in the left corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0086_00",
+        "gt_id": 29,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a bathrom stall door sits to the left of two sinks. just behind it is a toilet with a toilet-paper dispenser to its left, hangin on the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0086_00",
+        "gt_id": 29,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the big bathroom stall door. the door is next to the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0088_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"one of many black office chairs sits next to a large wooden board room table. it is on the nearest side of the table and sits between two other chairs of the same type, so that it is almost in the center of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0088_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is black and plastic. the chair is between two others,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0088_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the black chair, in front of the chair with a brown table. it  is in the middle of two black chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0088_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is plastic and grey. the chair is between two others,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ018>.",
+        "ref_captions": [
+            "<OBJ018>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0088_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"straight ahead, with its back resting against the far wall, sits a black chair. to the right of it is another chair of the same type with its back facing a perpendicular wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0095_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a computer monitor. it allows a person to see what they are working on,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0095_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wood chair. this chair is on the right side of the table. this chair is the third one in from the far end of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0095_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wooden chair. it is a student chair. it is the third chair from right to left on the southern side of the long table. it is located closest to the center of the long table. it is in front of a desktop computer and a keyboard. the chair is inside a rectangular room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0095_00",
+        "gt_id": 30,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a chair. it sets at a table beside another chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ012>.",
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0095_00",
+        "gt_id": 30,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a chair with no arms. its back is facing a whiteboard,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ012>.",
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0095_00",
+        "gt_id": 30,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wooden desk chair with metal legs. this chair is the one on the front left corner of the desk,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ012>.",
+        "ref_captions": [
+            "<OBJ012>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0095_00",
+        "gt_id": 40,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a large whiteboard. it is behind chairs on the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ025>.",
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0100_00",
+        "gt_id": 29,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a blue and white towel. it is in between two other towels,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0131_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is in front of the entrance and is next to the middle of the u-shaped desk. the chair has five legs and is the color black,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ014>.",
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0131_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the computer tower is directly north from the entrance and under the desk. the computer tower is a black rectangular prism,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0131_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a black computer tower. it is under a brown table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0131_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the computer tower is to the north of the entrance under the desk. the computer tower is a black rectangular prism,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0131_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black computer tower. it is under a desk in between two chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0131_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black computer tower. it is to the left of the chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0139_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white door. it is to the left of a sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0139_00",
+        "gt_id": 25,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white table. it is against the wall in a corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0146_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the wall soap dispenser. the dispenser is right of the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0146_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the soap dispenser. the dispenser is next to the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0146_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the soap dispenser is black in color. it is to the right of the mirror,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0146_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the wall soap dispenser. the dispenser is above the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0146_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the soap dispenser is rectangular in shape. it is to the left of the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0149_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the item is a white refrigerator.  it is located to the left of the stove,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0149_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white refrigerator. it is to the left of the stove,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0149_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"these are brown kitchen cabinets. they are above the stove,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0149_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"these are brown kitchen cabinets. they are above the microwave,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0153_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a circle shaped plain color sink. it is near the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0164_00",
+        "gt_id": 25,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white oven. it is in between kitchen cabinets,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0164_00",
+        "gt_id": 43,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a microwave on a counter top. it is in the corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0164_00",
+        "gt_id": 50,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a sink installed in a counter. it is to the right of a dish drainer,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0164_00",
+        "gt_id": 50,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a sink with faucet. its aluminum and is below the hanging picture frame,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0164_00",
+        "gt_id": 50,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a sink installed into the countertop. it is to the right of a dish drainer,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0169_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a whiteboard. it hangs on the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ023>.",
+        "ref_captions": [
+            "<OBJ023>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0187_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the coffee table is between a chair and a long white table. the coffee table looks like a dark mahogany square,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0187_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a coffee table that is dark brown on top, and white underneath.  to the left of the coffee table is a regular long table.  to the right is a lounge chair with only one arm next to the wall.  beyond the coffee table and the chair is a little orange stool,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0196_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a long wooden table. in front of it is a same table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0196_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this table is placed on the right side of the room. an object with red and black color is placed above it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0196_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a light brown table. it is surrounded with brown chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0196_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a table that has two chairs tucked under it. it also has a red and black object on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0196_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a chair at the table to the right of another chair. it is in the corner of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the couch is between the two stools and the window. the couch looks dark olive green,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the couch is between the stools and the window. the couch is a dark olive green,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the couch is between two stools and a window. the couch is olive green colored with two large seats,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is left of the couch and northwest of the backpack. the stool has four legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is between a table and a couch. the chair has a round top and four legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is left of the coach and northwest of the black backpack. the stool has a round top and four legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a black chair. it is sitting in front of the green couch,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is between a couch and the desk. the chair is black with a curved seat,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the toilet is left of the bathtub. the toilet has a round, oval seat,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the toilet is between the bathtub and the sink. the toilet is white and has a oval shape,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the toilet is between the sink and the bathtub. the toilet is white and has a rounded shape,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a standard off-white toilet. it is placed between a small vanity sink and a wall in a full bathroom,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0207_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the toilet is left of the bathtub. the toilet has a round, white seat,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0221_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the object is white sink. it is mounted in a vanity beside the bathroom door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0221_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is white and has a wide counter around it. the sink is in between two walls,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0221_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a dark trash can. it is to the side of a sink and cabinet and at the side of a hallway,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0221_00",
+        "gt_id": 39,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white pillow. it is the only pillow in front of two pillows sitting side by side. this pillow is on the left bed in the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ016>.",
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0222_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wooden desk. it is along the wall opposite from the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ025>.",
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0222_00",
+        "gt_id": 42,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the shelf is between the bed and closet. the shelf is rectangular and has two legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ027>.",
+        "ref_captions": [
+            "<OBJ027>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0246_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the nightstand is white. the nightstand is to the right of the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0246_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the nightstand is on the right side of the bed. there is a lamp on top of the nightstand,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0246_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the nightstand is right of the bed. the nightstand is white and has four legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0246_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white nightstand. it has a red and white paper on it next to the left side of the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0246_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the nightstand is on the right side of the bed. the nightstand has a lamp on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0246_00",
+        "gt_id": 42,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a pillow. its white in color and is on the left side of the mattress,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0249_00",
+        "gt_id": 27,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a trash can. its black and is next to a wooden table with silver legs in the corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0249_00",
+        "gt_id": 45,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the object is the top rightmost chair in a set of chairs. it is sitting next to a red chair, and is mostly pulled out from the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0251_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a brown chair. the chair is beside a half moon shaped table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0251_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is wooden brown chair. the chair is next to a wooden half moon table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0251_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is right of the half circle table. the chair is brown and has four legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0251_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is right of the half-circle table. the chair is brown and has four legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0251_00",
+        "gt_id": 16,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the table is underneath the windows. the table is a long brown rectangle,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0251_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the window is above the right table. there is a vertical divider in the window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ016>.",
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0257_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"chair located directly behid the green chair. chair is next to the stairs behind the green chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0277_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the dresser has 3 drawers. the dresser is underneath the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0277_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the radiator is under the window. the radiator is behind the blue trash can,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0277_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a radiator underneath a window. the radiator is to the right of the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0277_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the radiator is to the right of the bed. the radiator is to the left of the desk,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0277_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this radiator is attached to the wall under the window. two trash cans are present in front of this,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0277_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a radiator attached to the wall. it is white,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0277_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the white bookshelf is above the brown desk, beside the telephone.  it is attached to the wall in the corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0278_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"these cabinets are installed under black counter top. a paper cutter is present above these cabinets,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0278_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the cabinets are on the right side of the room. the cabinets are long rectangular boxes,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0278_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the cabinets are beneath the green paper cutter. the cabinets are brown and rectangular,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0278_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the file cabinet is between the doorway and the cardboard boxes. the file cabinet is a white box,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0278_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the file cabinet is left of the stack of cardboard boxes. the file cabinet is a white box,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0300_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a table to the right of the windows. the table has 1 grey chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0300_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"on the right you can see the edge of a tall bookcase. it appears to be open-backed like a library shelf. it is a brown color and you can see at least six shelves on it as well as a white sign. to the left of it you can see a desk with a person's head sitting there,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ016>.",
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0300_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the trash can is to the right of the blue backpack. the trash can is to the left of the book shelf,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0300_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a black trash can. the trash can is beside a desk with a backpack on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is the left side of a dual-basin sink. it is to the right of a washing machine that has a box of persil detergent on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a silver stainless steel sink. it is situated to the left of the washer,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is one of the double sinks situated to the left of the washer. it is placed to the right of the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a silver sink. placed in the entrance of the room on the right,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular metal sink. it is above a cabinet and below a faucet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a gray steel sink. placed in the corner of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is grey. it is in the far left corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is to the right of the laundry machine. the sink is a gray hollowed out rectangle,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 31,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a old white fridge located to the right of two windows.  there is a table or drying rack in front of it.  there is some material piled up to the left of the fridge and below the windows. ,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0307_00",
+        "gt_id": 31,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white refrigerator sitting against the wall and to the right of a double set of high windows.  the refrigerator has a white metal folding table directly in front of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0316_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a brown armchair against the wall. to the left of the chair is a table in the corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0316_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the brown armchair has two armrests and is located on the wall next to the table.  it is located right next to the door on the left,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0316_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a table in the corner. it has a mantelpiece placed on top,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0316_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is an open door. to the left of the door is a brown armchair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0316_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a white door. on the right of a sofa chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0328_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the kitchen cabinet is the one at the very edge of the counter, below the counter. it's on the far right, and the sink is to its left, a few feet down,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0328_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wooden kitchen cabinet. the cabinet is at the corner of the wall next to sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0329_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the monitor is on top of the rightmost table in the center. the monitor is black and rectangular,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0329_00",
+        "gt_id": 31,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the monitor is on the left desk top. it is the monitor that fartherest from the red office chair. it is the monitor facing away from the red office chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ019>.",
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0329_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is the second white monitor from the left. it is located on the desk and it is facing away from the camera,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0329_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is the first while monitor from the right. it is located on the desk and it is the closest to the wooden door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0334_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there are brown round leather seats. placed in front of the round table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0334_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a long circular brown couch. it is facing a coffee table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0334_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the half circle couch is brown and has a wood seperator in the middle of it. the couch sits behind a circular coffee table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0342_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a gray chair. it is on the far right,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0343_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a small, white set of shelves amidst other sets of shelves.  it is on the bottom right of the shelves and above a turquoise cart,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ014>.",
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0351_00",
+        "gt_id": 22,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the monitor is on the table. it is the one on the right side,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0353_00",
+        "gt_id": 28,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the pillow is on the couch. it is on the far left side,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0354_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the trash can is grey and is on the floor. it is in the far corner of the room against the red wall and the glass wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0354_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a cylindrical trash can. it is on the floor against the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0354_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this a a bucket or trashcan.  it is in the corner of the room to the left of the counter,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0354_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a trash can that has a bag in it.  it is left of the counter on the floor in the corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0354_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the trash can is in the back right corner. it is in front and to the left of the red cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0355_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is one of 4 at a table. it is the chair that is farthermost from the plant. it is sitting side ways from the brown wall cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0355_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is one of 4 chairs at a round table. the chair is closest to the open doorway and is sitting sideways in relation the the wood and glass wall cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0355_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is partially pulled into the table. it is to the right of the edge of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0355_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is around the brown round table. it is in the front right,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0356_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular dark bed. it is next to a cabinet and against the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0356_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a small bed. it has a blue mattress and a wood frame,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0356_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the bed is in the back left corner of the room. it is to the right of the window on the left wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0356_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular bed with a black mattress. it is against the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0356_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a bed sits on the floor opposite a wooden desk. at the bed's head is a window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0356_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a brown wooden door. placed on the left to the beige cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0356_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the door is on the far wall. it is to the left of the cabinet and also to the left of the telephone,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0357_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black shelf. it is to the left of a window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0357_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a gray steel shelf. placed on the left of the window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0377_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the bucket is located on the floor. it is a round, light colored bucket,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0382_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular brown shelf. it is on the wall next to a window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0382_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular brown shelf. it is left of the window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0382_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular white door. it is next to a chair and table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0389_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black and off tv set atop a brown stand. it is in contact with a wall behind it and is facing the viewer, only slightly to the right,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0389_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is an off tv that is flat and has a certain thickness against a white wall. it is facing the viewer and is to the left, on top of a wooden stand,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0389_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the object is a tv. if you enter the room follow a straight path it is against the wall on the right at the end of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0406_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a vanity counter in the bathroom. it has a white porcelain inlay sink as well,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0406_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a black countertop. it has a white sink in the middle of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0406_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is the marble counter top next to the inlay sink. it appears to be black in color,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0406_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a black counter. it is below a sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0406_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"white toilet paper. it is above a bin,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0406_00",
+        "gt_id": 29,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white curtain surface. it has ridges on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ019>.",
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0412_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a recycling bin atop a surface. it may be empty or filled,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ018>.",
+        "ref_captions": [
+            "<OBJ018>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0412_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is an orange traffic cone. it is next to a ladder,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0412_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is an orange traffic cone. it is on the floor besides a ladder,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0412_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is an orange and white striped traffic cone. it is next to a ladder on the floor,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0412_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a traffic cone in the corner. it is orange,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0412_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a small orange and white cone. the cone is on the floor next to a metal ladder,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0423_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the armchair is facing the table. there is another chair to the right of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0423_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there are 4 white chairs surrounding a circular end table that looks like a mushroom.  this chair is directly to the left of the chair with the circular discs in front of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0423_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"small round table. the round table is positioned in the middle of four armchairs. the color of the table is brown or black,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0423_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the table has a round top. the table has chairs facing it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0423_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a small circular table sits in the middle of the floor. it's surrounded by four chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0426_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a six drawer wooden dresser. it is in a room near the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0426_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular beige dresser. it is next to a cardboard box,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0427_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black chair. it is beside a table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0427_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is black. the chair is to the right of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0427_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black chair facing left. it has five legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0430_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is the black chair facing left. it is the furthest chair on the right side and closest,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0430_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a black chair. it is sitting in front of the hanging screen. it is the chair farthest from the door on the side of the table closest to the hanging screen,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0430_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a chair facing inward. it is on the top right corner of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0435_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a white door. it is in the corner of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0435_00",
+        "gt_id": 30,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the towel is white. it is on top of the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0435_00",
+        "gt_id": 30,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a white towel. it is on top of the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0435_00",
+        "gt_id": 30,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a white towel on top of the toilet. it is sitting below the frame,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0441_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"across from the bathroom stall door is a trash can. on the other side of the bathroom stall door is the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0458_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a toilet. it is made of porcelain,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0458_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the toilet appears to be porcelain but looks almost gold. sits near the wall with moderate space on both sides. the toilet is near a trash can and shower,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0458_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a white toilet with a trash can by the side. it has 2 toilet paper rolls on top of the lid,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0458_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the towel is hung on the left wall. there is a ladder beyond it. the door is also beyond it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0461_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the white armchair is to right of an occasional table. the white armchair is on the right side against the wall on the wooden floor,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0461_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a square beige armchair. it is right of a square table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0462_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a green trash bin against the wall. it is on the right of another,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0474_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black chair. it is facing the viewer,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0490_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a gray chair. its back is to a whiteboard and it is furthest right in a row,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0494_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a gray office chair. it is in the corner of the table and next to a whiteboard on its right,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0494_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black chair in a small classroom.  it is on the right side of the table and is next to the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0494_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is the small trash can in the room. it is near the window next to the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0494_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a cylindrical gray trash can. it is next to an office chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0494_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the trash can is on the floor. it is round. it is to the left of the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0494_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown trash can on the floor in an office.  it is across from the table by the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0494_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a trash can sits all along on the floor. it's to the right of a table with chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0496_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a blue chair in the bottom left of the room. it is to the right of another,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0496_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the grey cushioned chair has wooden arms on each side. this grey cushioned chair has another beside it on the left,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0496_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown wooden table. it is in the middle of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0496_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a huge long table. it is sitting in the middle of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0496_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a large wooden meeting table in the room. it has many chairs lined up to the edges,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0500_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is on the far right corner. it is facing inward,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ025>.",
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0500_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wooden chair. it is to the left of other chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0500_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wooden chair at the head of the table. it is on the left side of the head of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0518_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"on the wall that is half blue, half white are several square-shaped shelves. they are at different heights and vary in color. most have objects in them such as books,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ014>.",
+        "ref_captions": [
+            "<OBJ014>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0518_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is on the left. it is black,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0518_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the cabinet is above the desk. there are two sides,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ011>.",
+        "ref_captions": [
+            "<OBJ011>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0518_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a brown pillow. the brown pillow sits at the back right of the couch,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0518_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the pillow is white. the pillow is on the orange couch,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0527_00",
+        "gt_id": 16,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is under the mirror. it is to the left of the shelf,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0527_00",
+        "gt_id": 16,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular sink. it is to the left of a shelf,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0527_00",
+        "gt_id": 16,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular white sink. it is in the corner of the room next to the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0527_00",
+        "gt_id": 16,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular sink. it is in the left corner of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0549_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a blue couch. the blue couch is at the mid right of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0549_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is on the left. it is blue,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0550_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a bathroom vanity. it has 2 sinks and is facing the mirror,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0552_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a wooden chair. it is on the left side of the table near the table next to the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0552_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a wooden chair. next to the wooden table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0552_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this trash can is black. it is on the left side,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0552_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this trash can is on the top left corner. it is black,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0553_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is white and square. it is located beneath the mirror and to the lower right of the black soap dispenser,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0553_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is white. it is located to the upper front and left of the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0558_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a chair.  there is a table in front and a bookshelf behind it. a backpack is in the seat,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0558_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is around the round table. it has a blue bookbag on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0558_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown wood chair in a library.  it is at the round table with a blue backpack on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0559_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular brown couch. it has two seats and faces a green ottoman,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0559_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the small rectangle grey bench. the bench is tucked under the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ007>.",
+        "ref_captions": [
+            "<OBJ007>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0559_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a tan end table. it is in between to couches,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0565_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a brown wooden door.  located on the back wall with a grayish handle,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0575_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is the 3rd black chair from the orange wall.  located about in the middle,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0575_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a brown office chair. the brown office chair sits at the top right of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0575_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a white door. the white door sits behind the table with chairs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0575_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a white door with a glass center.  it is the only door in the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0575_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a white door.  the white door sits to the left of the right wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0575_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a white door with a glass center.  it is in the corner of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0575_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the entry door.  it is white framed and has blinds in the center of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0578_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a brown wooden chair.  it is pushed up to the wooden table in the middle of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0578_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a small black trash bin with a trash liner in it.  it is to the right of the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0578_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a trash can with a plastic liner.  it is next to the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0578_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a small trash basket.  it is against the wall next to the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0578_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a black trash container.  it is next to the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0578_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this trash can is on the left side on the floor. it is brown,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0580_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a white gray sheet. covering the double bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0583_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a painting hangs on the wall to the right of a window. it's to the left of the mirror,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0583_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a blue and green painting on the wall. it hangs over the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0583_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a set of four shelves hanging on the bathroom wall.  they are behind the opened door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ019>.",
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0593_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"thee cabinet is located under the window. there is a large trash bin o the right side of the cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ031>.",
+        "ref_captions": [
+            "<OBJ031>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0593_00",
+        "gt_id": 18,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the cabinet has a printer atop it. the cabinet is to the right of the trash can,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ024>.",
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0598_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is facing the table. the chair is to the right of the other chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0598_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a gray chair. the gray chair sits at the front right of the brown table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0598_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the nice grey chair. the chair is on the right under the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0607_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white soap dispenser. it is to the right of the paper towel dispenser,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0607_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this soap dispenser is on the right side. it is tan and smooth,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0607_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white soap dispenser in a kitchen.  it is on the wall above the counter and to the right of the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0607_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the soap dispenser is above the sink. the soap dispenser is a white box,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ013>.",
+        "ref_captions": [
+            "<OBJ013>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0608_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this ottoman is on the floor. it is brown,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ026>.",
+        "ref_captions": [
+            "<OBJ026>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0608_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the tv stand has a tv atop it. it is to the right of the couch and the painting on the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0616_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a wooden brown chair. it is next to a gray chair and at a circular table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0616_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a brown wooden chair. in the corner of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0616_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a brown chair is in the corner of the room by a round table. there is a colorful wall behind it also,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0618_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a tall chair. it is to the right of the round table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0618_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is on the top left. it is brown,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0618_00",
+        "gt_id": 21,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is the northeast-most one in the room. the chair has four legs and is brown,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0621_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is a light grey color. it is the third chair along the wall from the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ022>.",
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0621_00",
+        "gt_id": 9,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is against the wall. it is on four legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ022>.",
+        "ref_captions": [
+            "<OBJ022>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0629_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a yellow, pink, orange and white picture. the yellow, pink, orange and white picture is to the left of the white door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0629_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is canvas artwork containing warm colors. it is located at the back of the room to the left of the door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0629_00",
+        "gt_id": 14,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the picture is left of the white door. the picture is rectangular and red and yellow colored,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0633_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the diaper bin is left of the white cabinet. the diaper bin is a black rectangular prism,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0633_00",
+        "gt_id": 20,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this picture is on the right. it is facing viewer,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0643_00",
+        "gt_id": 31,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a brown wooden desk. on the side of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ025>.",
+        "ref_captions": [
+            "<OBJ025>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0644_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a black monitor. the black monitor is the first monitor (from right to left) sitting on the last grey desk \u00a0in the left-back of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0648_00",
+        "gt_id": 25,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the chair is in the back left corner. it is in front of the desk,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0648_00",
+        "gt_id": 25,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a grey chair. the grey chair is sitting at the brown desk which is to the left of the bed with the white and orange pillow,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0648_00",
+        "gt_id": 45,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the pillow is on the bed. it is the one in the front,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0651_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is silver. it is located above and to the right of the set of four white drawers in the cabinets below,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ009>.",
+        "ref_captions": [
+            "<OBJ009>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0651_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a brown chair. the brown chair is the chair at the front of the brown table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0651_00",
+        "gt_id": 8,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a square dining table in the room next to the kitchen with four chairs around it. the highlighted object is the first chair, which has its back to you. it has wooden and fabric components,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0652_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the cabinet is to the left of the other cabinet on the wall with the television. the cabinet is across from the foot of the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0652_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a white pillow. on the bed next to window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0652_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this pillow is in the corner. it is square,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0653_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a rolling office chair. the chair is with cushion seat,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ023>.",
+        "ref_captions": [
+            "<OBJ023>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0653_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the office chair is the southwest-most one in the room. the office chair is gray and has five legs,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ023>.",
+        "ref_captions": [
+            "<OBJ023>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0653_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a brown desk. it is by a file cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ028>.",
+        "ref_captions": [
+            "<OBJ028>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0653_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the desk is in the back left corner. there are two monitors on it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ028>.",
+        "ref_captions": [
+            "<OBJ028>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0653_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the desk is the northwest-most one in the room. the desk is dark brown and rectangular,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ028>.",
+        "ref_captions": [
+            "<OBJ028>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0658_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a black desk with a clear rectangular glass. the desk is located near the window, and has a office chair pulled up to it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0658_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a black table by the wall. it has a lamp on it and is near the corner,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0658_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a black table with a rectangular glass top. it is to the right of a black dresser, of similar height that also has glass top,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0658_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a black table by the window.  it is beside a low cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0663_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a computer monitor on a desk. it has a keyboard and mouse and sticky notes in front of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0663_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black monitor. it is on the desk,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0665_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a blue chair. it is at the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0665_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a blue chair under the first  round table. it is facing the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0665_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a blue chair. it is at a round table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0665_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a white table. the white table is sitting behind the two brown desks in the far left corner of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0665_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the table is round. there is a stapler atop it, along with other items,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0670_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a window above the counter. it is directly above the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0670_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the window is above the sink. the window is a clear rectangle,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0670_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the highlighted object is the window behind the kitchen sink. it is likely made of wood and glass. it has two panes,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0670_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a large window. it is behind the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ015>.",
+        "ref_captions": [
+            "<OBJ015>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0678_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a rectangular row of clothes dryers. they are next to a soda machine,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0678_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"items are a row of clothes dryers.  they are located across from the dryers with the laundry basket on them,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0678_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a row of bottom clothes dryers on the left wall. there are bottles of detergent to the left of them,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ021>.",
+        "ref_captions": [
+            "<OBJ021>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0678_00",
+        "gt_id": 33,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the trash can is right of the entrance door. the trash can is gray and rectangular,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0678_00",
+        "gt_id": 33,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this trash can is on the floor. it is tan,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0684_00",
+        "gt_id": 2,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white door. it is at the far end of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0684_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this black chair is in front of a desk. it is in front of the window,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0685_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a large green trash can. there is a door to the right of it and a wall behind it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0686_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white bathroom stall door. it is to the left of another bathroom stall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0686_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the bathroom stall door is tan. it is the door on the furthest left stall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ008>.",
+        "ref_captions": [
+            "<OBJ008>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0686_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the sink is to the right of the toilets. it's silver,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0686_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the paper towel dispenser is affixed to the wall. it is to the right of the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0686_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the paper towel dispenser is attached to the wall. it is to the right of the sink,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0686_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the paper towel dispenser is right of the sink. the paper towel dispenser is gray and square,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0686_00",
+        "gt_id": 24,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a white toilet. it is to the left of another toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is red. it is facing left,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a red and black chair is on the right side of the room and behind a table. it is the first chair on the right ,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 13,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this chair is red. it is on the right side of the table. it is the middle chair,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ002>.",
+        "ref_captions": [
+            "<OBJ002>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 15,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a small trash can in front of the yellow window. it is cylinder shaped and against the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the window is on the wall behind the table. it has a yellow tint to it. there is a trash can towards the right of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the large giant window. the window is at the end of the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a glass window. it is behind the far end of the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0689_00",
+        "gt_id": 17,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the window is on the eastern side of the room. the window is yellow and rectangular,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0690_00",
+        "gt_id": 11,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a small lamp is on an end table to the left of the sofa. there is a coffee table in front of it,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ003>.",
+        "ref_captions": [
+            "<OBJ003>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0690_00",
+        "gt_id": 20,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a brown wooden bookcase in the middle. it is protruding from the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0693_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the mirror is along the wall on the right side of the room. it is behind the bathroom vanity,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0693_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the mirror is on the wall. it is above and behind the vanity,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ017>.",
+        "ref_captions": [
+            "<OBJ017>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0695_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"it is a brown bed. the brown bed is next to the left wall in the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ019>.",
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0695_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"item is a bed with white linens on it.  it is located to the left of the cardboard box on the floor,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ019>.",
+        "ref_captions": [
+            "<OBJ019>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0695_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this laundry hamper is on the far side. it is empty,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0695_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a round laundry hamper. it is to the right of a white basket,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0695_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the large circular laundry hamper. the hamper is next to the lamp,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0696_00",
+        "gt_id": 1,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"item is a tall rectangular shelf.  it is located to the right of a shorter white cabinet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ040>.",
+        "ref_captions": [
+            "<OBJ040>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0696_00",
+        "gt_id": 6,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"object is a brown curtain with with lace on its left side.  it is located behind two computer monitors,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ024>.",
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0696_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this cabinet is on the other side. it is brown,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0696_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this cabinet is large and made of wood. it is against the wall behind the green table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0696_00",
+        "gt_id": 32,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the big wooden cabinet. the cabinet is next to the table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ020>.",
+        "ref_captions": [
+            "<OBJ020>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0697_00",
+        "gt_id": 16,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this storage bin is on the right corner. it is cube-shaped,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ024>.",
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0697_00",
+        "gt_id": 16,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a plastic storage bin. it is to the right side of the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ024>.",
+        "ref_captions": [
+            "<OBJ024>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0697_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this lamp is on the right side. it is standing,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0697_00",
+        "gt_id": 19,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a cylindrical lamp. it is to the right of a bed on a nightstand,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0697_00",
+        "gt_id": 20,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this lamp is against the wall. it is standing,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ001>.",
+        "ref_captions": [
+            "<OBJ001>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0699_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a large bed in this room. it is the highlighted object. there is a gray head board, and two white pillows. there is also a patterned blanket that is somewhat crumpled near the foot of the bed,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0699_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the object is a bed. it is the only bed in the room,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0699_00",
+        "gt_id": 12,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the highlighted object in this room is a bed. it has a gray head board and white pillows on it. there is also at least one patterned blanket on it as well,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ010>.",
+        "ref_captions": [
+            "<OBJ010>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0699_00",
+        "gt_id": 24,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a picture with wooden frame. the picture is hanged on wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0701_00",
+        "gt_id": 3,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a gray couch. it is facing the round table,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 0,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the highlighted object is the small trash can. it is lined with plastic. to its left is the toilet. to the right is the wall of the bathroom,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ006>.",
+        "ref_captions": [
+            "<OBJ006>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the door is to the right of the telephone. it is brown and has a doorknob,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a brown door opening into the bathroom. the door is open and to the right of the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a brown, wooden door. it is to the right of the toilet paper holder,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a brown door opening into the bathroom. it is to the right of the toilet paper hanging on the wall,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 4,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the highlighted object is the wooden door that leads into the bathroom. it has a metal doorknob on the left side. when fully open, there will be a telephone on the wall to the immediate left of the open door,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ005>.",
+        "ref_captions": [
+            "<OBJ005>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the toilet is white. it is to the right of the tub,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the average bathroom toilet. the toilet is next to the tub,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the toilet is right of the bathtub. the toilet is white and round,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 5,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"a white toilet is behind the brown door. the toilet is between the white tub and trashcan,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ000>.",
+        "ref_captions": [
+            "<OBJ000>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the small square picture. the picture is above the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"there is a picture hanging on the wall above the toilet. it is to the right of the bathtub,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the tiny square hanging picture. the picture is hung above the toilet,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0702_00",
+        "gt_id": 10,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the picture is on the back wall of the room. it is to the right of the shower curtain,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ004>.",
+        "ref_captions": [
+            "<OBJ004>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0704_00",
+        "gt_id": 7,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"this is a black shelf. it is to the right of the water dispenser,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ018>.",
+        "ref_captions": [
+            "<OBJ018>."
+        ],
+        "type_info": 0
+    },
+    {
+        "scene_id": "scene0704_00",
+        "gt_id": 26,
+        "pred_id": 0,
+        "qid": 0,
+        "prompt": "According to the given description, \"the table is next to the printer. the table is brown and square,\" please provide the ID of the object that closely matches this description.",
+        "pred": "<OBJ016>.",
+        "ref_captions": [
+            "<OBJ016>."
+        ],
+        "type_info": 0
+    }
+]
